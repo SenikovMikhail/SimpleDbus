@@ -1,12 +1,3 @@
-/*
- * This uses the recommended GLib API for D-Bus: GDBus,
- * which has been distributed with GLib since version 2.26.
- *
- * For details of how to use GDBus, see:
- * https://developer.gnome.org/gio/stable/gdbus-convenience.html
- *
- * dbus-glib also exists but is deprecated.
- */
 #include <stdbool.h>
 #include <unistd.h>
 #include <stdio.h>
