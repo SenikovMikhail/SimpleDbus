@@ -13,12 +13,10 @@ Required libs:
   </ul>
 
 Install:
-    <ol>
-    <li>git clone https://github.com/SenikovMikhail/SimpleDbus.git</li>
-    <li>make</li>    
-    </ol>
     
-    
+    git clone https://github.com/SenikovMikhail/SimpleDbus.git
+    make
+        
 Use:
   <ol>
   <li>./dbus-server </li>
