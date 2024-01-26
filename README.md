@@ -1,8 +1,8 @@
 # SimpleDbus
 
 <div id="header" align="left">
-  <img src="https://www.softprayog.in/images/interprocess-communication-using-dbus.png" width="180" />
-  This project is a simple stock exchange is a async client-server application.
+  <img src="https://www.softprayog.in/images/interprocess-communication-using-dbus.png" width="600" />
+  This project is a simple client-server application using dbus.
 </div>
 
 Required libs:
