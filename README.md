@@ -18,6 +18,6 @@ Install:
     
 Use:
   <ol>
-  <li>./dbus-server </li>**
+  <li>./dbus-server </li>
   <li>./dbus-client</li>
   </ol>
