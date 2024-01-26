@@ -13,8 +13,11 @@ Required libs:
   </ul>
 
 Install:
+    <ol>
+    <li>git clone https://github.com/SenikovMikhail/SimpleDbus.git</li>
+    <li>make</li>    
+    </ol>
     
-    make
     
 Use:
   <ol>
