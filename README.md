@@ -15,6 +15,7 @@ Required libs:
 Install:
     
     git clone https://github.com/SenikovMikhail/SimpleDbus.git
+    cd SimpleDbus
     make
         
 Use:
